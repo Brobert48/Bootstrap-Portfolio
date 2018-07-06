@@ -5,3 +5,8 @@
     padding: 0px 2px;
 }
 
+@media (min-width: 992px) {
+    #ftr{
+        position:absolute;
+    }
+ }
